@@ -438,6 +438,7 @@ const Hero = () => {
 
                         {/* Brochure */}
                         <a
+                            title="Coming soon..."
                             href="#brochure"
                             className="px-6 py-3 md:px-8 md:py-4 bg-[#181126] hover:bg-[#1e1535] text-[#eae4f5] font-nova font-bold rounded-full shadow-lg hover:shadow-[0_0_20px_rgba(24,17,38,0.5)] hover:scale-105 active:scale-95 transition-all duration-300 flex items-center gap-2 md:gap-3 group"
                         >
