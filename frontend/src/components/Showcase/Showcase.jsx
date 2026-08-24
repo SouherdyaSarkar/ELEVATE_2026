@@ -9,7 +9,6 @@ import funEventOne from "../../assets/events/fun-event-one.png";
 import raspberryPiWorkshop from "../../assets/events/raspberry-pi-workshop.png";
 import matlab from "../../assets/events/matlab.png";
 import agenticWebWorkshop from "../../assets/events/agentic-web-workshop.png";
-import pcbDesignWorkshop from "../../assets/events/pcb-design-workshop.png";
 import culturalEve from "../../assets/events/cultural-eve.png";
 import memeMaking from "../../assets/events/meme-making.png";
 import quiz from "../../assets/events/quiz.png";
@@ -29,7 +28,6 @@ const eventsData = [
   { id: 8, name: "Raspberry Pi Workshop", category: "Workshop", description: "Explore Raspberry Pi through a guided hands-on session covering computing, electronics, and small projects.", difficulty: "Beginner", image: raspberryPiWorkshop },
   { id: 9, name: "Matlab Workshop", category: "Workshop", description: "Learn the fundamentals of MATLAB for numerical computing, visualization, and engineering problem-solving.", difficulty: "Beginner", image: matlab },
   { id: 10, name: "Workshop 3 (Agentic / Web)", category: "Workshop", description: "Discover agentic AI or modern web development concepts through practical examples and activities.", difficulty: "Intermediate", image: agenticWebWorkshop },
-  { id: 11, name: "PCB Design Workshop", category: "Workshop", description: "Learn schematic creation, component placement, routing, and the basics of printed circuit board design.", difficulty: "Intermediate", image: pcbDesignWorkshop },
   { id: 12, name: "Cultural Eve", category: "Cultural", description: "An evening of music, dance, and performances celebrating creativity, talent, and campus culture.", difficulty: "Open", image: culturalEve },
   { id: 13, name: "Meme Making Competition", category: "Creative", description: "Create clever and original memes that combine humor, creativity, and an engaging event-related theme.", difficulty: "Open", image: memeMaking },
   { id: 14, name: "Quiz", category: "Competition", description: "Challenge your knowledge across technology, science, current affairs, and general topics.", difficulty: "Intermediate", image: quiz },
